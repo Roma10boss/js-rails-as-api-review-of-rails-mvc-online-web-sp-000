@@ -1,4 +1,3 @@
 # Add code from Readme
-class Bird < Applicationrecord
-  
+class Bird < ApplicationRecord
 end
